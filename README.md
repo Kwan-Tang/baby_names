@@ -1,4 +1,4 @@
-A look at the baby names from the period of 1880 to 2018 from the Social Security Administration.  From there, we analyzed the data and see we could some valuable trends.
+A look at the baby names from the period of 1880 to 2018 from the Social Security Administration.  From there, we analyzed the data and see if we could extract some valuable insights.
 
 The code is written in IPython and the best way to view the code is through NBViewer.
 
